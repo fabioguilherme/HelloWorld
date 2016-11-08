@@ -16,4 +16,13 @@
         android:text="Pagina de login"
         android:layout_centerHorizontal="true"
         android:id="@+id/textLogin"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="143dp"
+        android:id="@+id/buttonLogin"
+        android:layout_below="@+id/textLogin"
+        android:layout_centerHorizontal="true"
+        android:text="Login"/>
 </RelativeLayout>
